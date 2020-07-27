@@ -1,0 +1,2 @@
+Com o uso de submodulos git o historico dos modulos permanece isolado, entrentanto é possível compor projetos maiores com vários submodulos.
+
